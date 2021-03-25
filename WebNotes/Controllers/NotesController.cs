@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace WebNotes.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api")]
     public class NotesController : Controller
     {
         
